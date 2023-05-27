@@ -7,7 +7,7 @@ If you are a Notion lover and use it to plan your work/day or projects and alway
 
 ## 🖱️ Visit here:
 
-
+https://blog-portfolio-notion.vercel.app/
 
 ## 📁 Project:
 
